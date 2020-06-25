@@ -1,0 +1,10 @@
+# Constants
+class WORKER_TYPE:
+    REGULAR = "REGULAR"
+    TEMPORARY = "TEMPORARY"
+    JOBLESS = "JOBLESS"
+
+
+class WORKER_AGE:
+    UPPER = 65
+    LOWER = 15
